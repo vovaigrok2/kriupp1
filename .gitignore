@@ -1,0 +1,19 @@
+# Visual Studio / VS Code
+.vs/
+*.sln
+*.suo
+*.user
+*.pyproj
+bin/
+obj/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python
+.env
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
